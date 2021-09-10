@@ -3,7 +3,7 @@
     <property name="created">2021-09-10T15:16:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2021-09-10T15:37:19</property>
+    <property name="modified">2021-09-10T15:50:23</property>
     <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <colors>
@@ -1597,7 +1597,11 @@
         <option name="FOREGROUND" value="e6c074" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="e76177" />
+      </value>
+    </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="2bbac5" />
