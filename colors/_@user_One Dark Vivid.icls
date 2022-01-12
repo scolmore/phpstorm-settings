@@ -3,7 +3,7 @@
     <property name="created">2021-09-10T15:16:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-01-12T15:12:02</property>
+    <property name="modified">2022-01-12T15:29:00</property>
     <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <colors>
@@ -810,7 +810,6 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f44747" />
-        <option name="ERROR_STRIPE_COLOR" value="f44747" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -849,7 +848,6 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="ff8c00" />
-        <option name="ERROR_STRIPE_COLOR" value="ff8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1050,7 +1048,6 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="e5c07b" />
-        <option name="ERROR_STRIPE_COLOR" value="e5c07b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1912,7 +1909,6 @@
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="ff8c00" />
-        <option name="ERROR_STRIPE_COLOR" value="f44747" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2187,7 +2183,6 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff8c00" />
-        <option name="ERROR_STRIPE_COLOR" value="ff8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -2205,7 +2200,6 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f44747" />
-        <option name="ERROR_STRIPE_COLOR" value="f44747" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
