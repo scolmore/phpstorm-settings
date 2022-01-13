@@ -3,4 +3,40 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="GotoSuperMethod" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="UsageGrouping.FileStructure">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
 </keymap>
