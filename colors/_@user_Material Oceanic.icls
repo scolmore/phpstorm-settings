@@ -4,7 +4,7 @@
     <property name="created">2022-01-20T13:13:54</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-28T11:30:05</property>
+    <property name="modified">2022-01-31T14:00:48</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <console-font>
@@ -30,8 +30,8 @@
     <option name="BookmarkMnemonicIcon.background" value="314549" />
     <option name="BookmarkMnemonicIcon.borderColor" value="314549" />
     <option name="BookmarkMnemonicIcon.foreground" value="fffbf7" />
-    <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="1b2529" />
+    <option name="CARET_COLOR" value="b8b6b3" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="c792ea" />
@@ -134,8 +134,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="37474f" />
     <option name="SELECTED_INDENT_GUIDE" value="9688" />
     <option name="SELECTED_TEARLINE_COLOR" value="9688" />
-    <option name="SELECTION_BACKGROUND" value="314549" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
+    <option name="SELECTION_BACKGROUND" value="263238" />
+    <option name="SELECTION_FOREGROUND" value="263238" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688" />
