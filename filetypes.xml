@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="DuskEnv" type="AUTO_DETECTED" />
+      <mapping pattern="lando" type="AUTO_DETECTED" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
